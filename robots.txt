@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-cx1f6c.citysinglescommunity.com/sitemap.xml
